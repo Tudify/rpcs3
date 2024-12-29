@@ -187,21 +187,21 @@
      <item>
       <widget class="QCheckBox" name="create_desktop_shortcut">
        <property name="text">
-        <string>Create desktop shortcut</string>
+        <string>Put RPCS3 on your desktop</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QCheckBox" name="create_applications_menu_shortcut">
        <property name="text">
-        <string>Create Start Menu shortcut</string>
+        <string>Put RPCS3 in the Start Menu</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QCheckBox" name="use_dark_theme">
        <property name="text">
-        <string>Use Dark Theme (can be configured later)</string>
+        <string>Use Dark Theme (there are more themes in settings!)</string>
        </property>
       </widget>
      </item>
